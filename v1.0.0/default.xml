@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="origin" fetch="https://github.com/UniRTOS/" />
-  <!-- SDK 核心源码仓 -->
-  <project name="unirtos" path="." remote="origin" revision="v1.0.0" />
-</manifest>
